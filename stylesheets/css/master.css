@@ -10,6 +10,7 @@ body {
   background-size: cover;
   position: relative;
   background-color: #3A3C39;
+  font-family:  "Helvetica Neue", Helvetica, sans-serif;
  }
 
 /* BACKGROUND OVERLAY */
@@ -28,9 +29,9 @@ body {
 /* HEADER/LOGO DIV */
 
 .wrapper{
-  /* background-color: rgba(255,255,255,.3); */
+  /* background-color: gray; */
   width: 100vw;
-  height: 75px;
+  height: 65px;
   padding-top: 30px;
   padding-left: 35px;
   /* position: left; */
@@ -38,6 +39,7 @@ body {
 }
 .content h1 {
   display: inline-block;
+    white-space: nowrap;
   /* background-color: #f00; */
   position: relative;
   font-family: sans-serif;
@@ -49,10 +51,49 @@ body {
 
 .content p{
   display: inline-flex;
+    white-space: nowrap;
   color: #5E7143;
   font-family: sans-serif;
   font-size: 1.5em;
+  font-weight: 100;
   text-align: center;
   font-style: italic;
 
+}
+
+.navbar{
+  /* background-color: blue; */
+  width: 100vw;
+  height: 35px;
+  /* background-color: #f00;
+  width: 100vw;
+  height: 35px;
+  margin-top: 0px;
+  position: relative;
+  font-family: sans-serif;
+  display: inline-block; */
+}
+
+.navbar ul{
+  /* background-color: gray; */
+  width: 1075px;
+  height: auto;
+  margin: 0;
+}
+
+.navbar li{
+  /* background-color: lightblue; */
+  width: 10%;
+  height: auto;
+  display: inline-block;
+  float: left;
+  text-align: right;
+  line-height: 44px;
+  color: #000;
+  font-size: 1em;
+  letter-spacing: .1em;
+  font-weight: 500;
+  cursor: pointer;
+  user-select: none;
+  transition: .2s;
 }
