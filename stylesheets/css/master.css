@@ -1,4 +1,16 @@
 /*  MASTER CSS FILE  */
+
+body {
+  background: url("img/DSC07674.JPG");
+  width: auto;
+  height: 750px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-color: #3A3C39;
+ }
+
 h1{
   font-family: sans-serif;
   font-weight: bold;
