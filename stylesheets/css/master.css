@@ -157,12 +157,8 @@ body {
 .bio h1{
   font-size: 2em;
   font-weight: bold;
-}
-
-.bio h1{
   color: #566A35;
 }
-
 
 /****** *****    SKETCH PAGE    ******* ******/
 
@@ -202,11 +198,13 @@ body {
 .sketchPics h1{
   font-size: 2em;
   font-weight: bold;
+  color: #566A35;
+
 }
 
 /****** *****    POSTER PAGE    ******* ******/
 
-.poster {
+.color {
   background: rgba(255,255,255,0.4);
   box-shadow: 0 0 30px 10px rgba(255,255,255,0.4);
   width: 400px;
@@ -217,30 +215,31 @@ body {
   line-height: 1.75em;
   font-family:  Avenir, "Helvetica Neue", Helvetica, sans-serif;
 }
-  .poster p{
+  .color p{
     font-size: 1.15em;
 }
 
-  .posterPics {
+  .colorPics {
     background: rgba(255,255,255,0.45);
     box-shadow: 0 0 30px 10px rgba(255,255,255,0.45);
     width: 700px;
     height: 500px;
     overflow: auto;
     /* display: inline-block; */
-    margin: -345px auto 0 600px;
+    margin: -125px auto 0 600px;
     padding: 15px;
     letter-spacing: .05em;
     line-height: 1.75em;
     font-family:  Avenir, "Helvetica Neue", Helvetica, sans-serif;
 }
-  .posterPics p{
+  .colorPics p{
     font-size: 1.15em;
 }
 
-  .posterPics h1{
+  .colorPics h1{
     font-size: 2em;
     font-weight: bold;
+    color: #566A35;
 }
 
 
@@ -283,6 +282,8 @@ body {
   .fontPics h1{
     font-size: 2em;
     font-weight: bold;
+    color: #566A35;
+
 }
 
 
