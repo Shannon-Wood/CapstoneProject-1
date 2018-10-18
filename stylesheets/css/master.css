@@ -300,6 +300,99 @@ body {
 }
 
 
+/*********  All the divs for all the design images on Poster page ******  */
+
+.bubble {
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/_BubbleText.png");
+  /* background-color: #cccccc; */
+}
+
+.chess {
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/chessIcon.png");
+  /* background-color: #cccccc; */
+}
+
+.cloud {
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/cloudIcon.png");
+  /* background-color: #cccccc; */
+}
+
+.paper {
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/paperIcon.png");
+  /* background-color: #cccccc; */
+}
+
+.milk1 {
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/milkAndCookies Copy.jpg");
+  /* background-color: #cccccc; */
+}
+
+.milk2 {
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/milkAndCookies 2.jpg");
+  /* background-color: #cccccc; */
+}
+
+.jumping {
+  height: 204px;
+  width: 264px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/Jumping.jpg");
+  /* background-color: #cccccc; */
+}
+
+.bike {
+  height: 204px;
+  width: 264px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/MTN Bike.jpg");
+  /* background-color: #cccccc; */
+}
+
+.wolf {
+  height: 204px;
+  width: 264px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/Wolf.jpg");
+  /* background-color: #cccccc; */
+}
+
+
 
 /****** *****    BOLD, ITALIC, etc. styles    ******* ******/
 
