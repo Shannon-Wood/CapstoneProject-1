@@ -29,7 +29,7 @@ body {
 /* HEADER/LOGO DIV */
 
 .wrapper{
-  background-color: gray;
+  /* background-color: gray; */
   width: 100vw;
   height: 65px;
   padding-top: 30px;
@@ -108,7 +108,7 @@ body {
 }
 
 .headshot img{
-  height: 95px;
+  height: 96px;
   float: right;
   margin-right: 40px;
 
