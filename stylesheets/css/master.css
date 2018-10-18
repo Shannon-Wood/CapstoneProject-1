@@ -309,8 +309,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("img/_BubbleText.png");
-  /* background-color: #f00; */
+  background-image: url("img/bubbleText.png");
   display: inline-block;
 
 }
@@ -323,7 +322,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/chessIcon.png");
-  /* background-color: #f00; */
   float: left;
   display: inline-block;
 
@@ -338,7 +336,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/cloudIcon.png");
-  /* background-color: #cccccc; */
   float: left;
   display: inline-block;
 
@@ -354,7 +351,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/paperIcon.png");
-  /* background-color: #cccccc; */
   float: left;
   display: inline-block;
 
@@ -369,7 +365,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/milkAndCookies Copy.jpg");
-  /* background-color: #cccccc; */
   float: left;
   display: inline-block;
 
@@ -384,7 +379,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/milkAndCookies 2.jpg");
-  /* background-color: #cccccc; */
   float: left;
   display: inline-block;
 
