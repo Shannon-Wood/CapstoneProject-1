@@ -39,7 +39,7 @@ body {
 }
 .content h1 {
   display: inline-block;
-    white-space: nowrap;
+  white-space: nowrap;
   /* background-color: #f00; */
   position: relative;
   font-family: sans-serif;
@@ -51,7 +51,7 @@ body {
 
 .content p{
   display: inline-flex;
-    white-space: nowrap;
+  white-space: nowrap;
   color: #5E7143;
   font-size: 1.2em;
   font-weight: 5o0;
@@ -64,15 +64,6 @@ body {
   /* background-color: blue; */
   width: 100vw;
   height: 35px;
-  text-decoration: none;
-
-  /* background-color: #f00;
-  width: 100vw;
-  height: 35px;
-  margin-top: 0px;
-  position: relative;
-  font-family: sans-serif;
-  display: inline-block; */
 }
 
 .navbar ul{
@@ -80,6 +71,7 @@ body {
   width: 1075px;
   height: auto;
   margin: 0;
+
 }
 
 .navbar li{
@@ -98,4 +90,9 @@ body {
   cursor: pointer;
   user-select: none;
   transition: .2s;
+
+}
+.navbar a{
+  text-decoration: none;
+  color: black;
 }
