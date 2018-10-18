@@ -11,6 +11,7 @@ body {
   position: relative;
   background-color: #3A3C39;
   font-family:  "Helvetica Neue", Helvetica, sans-serif;
+  overflow: hidden;
  }
 
 /* BACKGROUND OVERLAY */
