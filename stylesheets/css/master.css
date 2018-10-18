@@ -303,94 +303,121 @@ body {
 /*********  All the divs for all the design images on Poster page ******  */
 
 .bubble {
-  height: 100px;
-  width: 100px;
+  height: 125px;
+  width: 125px;
+  margin: 25px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/_BubbleText.png");
-  /* background-color: #cccccc; */
+  /* background-color: #f00; */
+  display: inline-block;
+
 }
 
 .chess {
-  height: 100px;
-  width: 100px;
+  height: 125px;
+  width: 125px;
+  margin: 25px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/chessIcon.png");
-  /* background-color: #cccccc; */
+  /* background-color: #f00; */
+  float: left;
+  display: inline-block;
+
+
 }
 
 .cloud {
-  height: 100px;
-  width: 100px;
+  height: 125px;
+  width: 125px;
+  margin: 25px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/cloudIcon.png");
   /* background-color: #cccccc; */
+  float: left;
+  display: inline-block;
+
+
+
 }
 
 .paper {
-  height: 100px;
-  width: 100px;
+  height: 125px;
+  width: 125px;
+  margin: 25px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/paperIcon.png");
   /* background-color: #cccccc; */
+  float: left;
+  display: inline-block;
+
+
 }
 
 .milk1 {
-  height: 100px;
-  width: 100px;
+  height: 125px;
+  width: 125px;
+  margin: 25px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/milkAndCookies Copy.jpg");
   /* background-color: #cccccc; */
+  float: left;
+  display: inline-block;
+
+
 }
 
 .milk2 {
-  height: 100px;
-  width: 100px;
+  height: 125px;
+  width: 125px;
+  margin: 25px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/milkAndCookies 2.jpg");
   /* background-color: #cccccc; */
+  float: left;
+  display: inline-block;
+
+
 }
 
-.jumping {
-  height: 204px;
-  width: 264px;
+/* .jumping {
+  height: 490px;
+  width: 633px;
+  margin: 25px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/Jumping.jpg");
-  /* background-color: #cccccc; */
 }
 
 .bike {
-  height: 204px;
-  width: 264px;
+  height: 490px;
+  width: 633px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/MTN Bike.jpg");
-  /* background-color: #cccccc; */
 }
 
 .wolf {
-  height: 204px;
-  width: 264px;
+  height: 490px;
+  width: 633px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("img/Wolf.jpg");
-  /* background-color: #cccccc; */
-}
+} */
 
 
 
