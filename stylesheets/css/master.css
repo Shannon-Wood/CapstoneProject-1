@@ -1,5 +1,16 @@
 /*  MASTER CSS FILE  */
 
+/* Load Woodlands FONT */
+@font-face {
+  font-family: Woodlands;
+  src: url('type/Woodland-Regular.woff2') format('woff2'),
+       url('type/Woodland-Regular.woff') format('woff'),
+       url('type/Woodland-Regular.ttf') format('truetype');
+}
+
+
+
+
 
 /* BACKGROUND IMAGE */
 body {
