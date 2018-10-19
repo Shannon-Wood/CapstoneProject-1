@@ -6,6 +6,10 @@
   src: url('type/Woodland-Regular.woff2') format('woff2'),
        url('type/Woodland-Regular.woff') format('woff'),
        url('type/Woodland-Regular.ttf') format('truetype');
+
+font-weight: 400;
+font-style: normal;
+font-display: swap;
 }
 
 
@@ -21,7 +25,7 @@ body {
   background-size: cover;
   position: relative;
   background-color: #3A3C39;
-  font-family:  "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   overflow: hidden;
  }
 
@@ -300,11 +304,13 @@ body {
 }
 
   .fontPics h2{
+    font-family: Woodland;
     font-size: 4em;
     text-align: center;
   }
 
 .fontPics h3{
+  font-family: Woodland;
   font-size: 3em;
   text-align: center;
   line-height: 1.8em;
